@@ -5,9 +5,5 @@
   ],
   "routes": [
     { "src": "/(.*)", "dest": "/public/index.html" }
-  ],
-  "env": {
-    "SUPABASE_URL": "https://zrgvjubtjopdvmupxvus.supabase.co",
-    "SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpyZ3ZqdWJ0am9wZHZtdXB4dnVzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDUxMzM3NzUsImV4cCI6MjA2MDcwOTc3NX0.LMUI0Eyj6nyDNcmE1T4RXJjL_9Rt3BiN8iBV4C01nB4"
-  }
+  ]
 }
